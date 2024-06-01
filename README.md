@@ -1,2 +1,2 @@
-# news_policeman
-Simple fake news detection api
+# News policeman
+Simple fake news detection APIs.
